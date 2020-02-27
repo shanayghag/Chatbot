@@ -669,7 +669,7 @@ decoder.eval()
 searcher = GreedySearchDecoder(encoder, decoder)
 
 # Uncomment the following line after training the model
-evaluateInput(encoder, decoder, searcher, voc)
+#evaluateInput(encoder, decoder, searcher, voc)
     
     
     
